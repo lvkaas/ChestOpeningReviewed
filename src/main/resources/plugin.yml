@@ -1,0 +1,10 @@
+main: de.torbusentwicklus.chestopening.ChestOpeningPlugin
+
+name: ChestOpening
+version: 0.1-UNTESTED
+author: lvkaas, TorbusEntwicklus
+
+commands:
+  chestOpening:
+
+
